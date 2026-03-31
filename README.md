@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Ignacio Agustin Scotto
+- Vivo en: El Palomar
 
 
 ### Otra Información
