@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.png)
+![Foto de: El Mas Grande](./river.jpg)
 
 # Programación con objetos I
 ## Presentación Personal
@@ -11,3 +11,4 @@
 ### Otra Información
 - Este es mi primer contacto con github
 - Tengo un perro que se llama Rocco
+- Soy hincha fanatico de River.
